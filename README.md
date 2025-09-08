@@ -59,4 +59,5 @@ It also performs graphical comparison between:
 ## 📚 **References**
 
 - [Simulación de modelos epidemiológicos con agentes](http://bdigital.dgse.uaa.mx:8080/xmlui/handle/11317/3288)
+- [Hybrid agent-based and markov chain simulation approach for modeling epidemiological dynamics](https://doi.org/10.1142/S0129183126500075)
 ---
